@@ -1,7 +1,18 @@
 {
   "packs": [
     "WorkforLife.json",
-    "Tareusasa.json"
+    "Tareusasa.json",
+    "YururinPanda3and4.json",
+    "lolioilol.json",
+    "Tomatousagi.json",
+    "PusheenJJ.json",
+    "greyrabbit2.json",
+    "Okamekun_pinkchan3and4.json",
+    "prefertyping.json",
+    "line13009_by_Sean_Bot.json",
+    "line13545_by_Sean_Bot.json",
+    "line14499_by_Sean_Bot.json",
+    "HatarakuSaibou.json"
   ],
   "homeserver_url": "https://matrix.awcjack.top"
 }
